@@ -1,0 +1,185 @@
+body {
+  font-family: sans-serif;
+  background: #f5f5f5;
+}
+
+.hidden {
+  display: none;
+}
+
+.hackentines-day-card-container {
+  width: 500px;
+  height: 580px;
+  margin: 40px auto;
+  background-color: #E1E1E1;
+  padding: 100px 25px;
+  cursor: pointer;
+}
+
+.swatch {
+  padding: 70px;
+  margin: 10px;
+  text-align: center;
+}
+
+.candy{
+  background: url("../images/valentines-day-candy.jpg") repeat;
+  border-style:solid;
+}
+
+.floating{
+  background: url("../images/hearts floating.jpg") repeat;
+  border-style:;
+}
+
+.chevron {
+  background: url("../images/chevron.jpg") repeat;
+}
+
+.hearts {
+  background: url("../images/hearts.jpg") repeat;
+}
+
+.hearts-gray {
+  background: url("../images/hearts-gray.jpg") repeat;
+  border: solid;
+  border-color: #40E0D0;
+  border-width: 16px;
+}
+
+.love {
+  background: url("../images/love.png") repeat;
+}
+
+.pusheen {
+  background: url("../images/pusheen.gif") repeat;
+  width: 315px;
+  height: 316px;
+  position:absolute;
+  left:560px;
+  top:400px;
+}
+
+.glitter {
+  background: url("../images/glitter.jpg") repeat;
+}
+
+.pink-hearts {
+  background: url("../images/pink-hearts.jpg") repeat;
+}
+
+.pink-text {
+  color: #ff6c6c;
+}
+
+.pink-background {
+  background: #ff6c6c;
+}
+
+.blue-text {
+  color: #74a3fa;
+}
+
+.blue-background {
+  background: #74a3fa;
+}
+
+.teal-text {
+  color: #b2fffc;
+}
+
+.teal-background {
+  background: #b2fffc;
+}
+
+.seafoam-text {
+  color: #30eae1;
+}
+
+.seafoam-background {
+  background: #30eae1;
+}
+
+.salmon-text {
+  color: #d85e5e;
+  position:absolute;
+  left:560px;
+  top:400px;
+}
+
+.salmon-background {
+  background: #d85e5e;
+}
+
+.orange-text {
+  color: #ffae6a;
+}
+
+.orange-background {
+  background: #ffae6a;
+}
+
+.light-pink-text {
+  color: #fdc8c8;
+}
+
+.light-pink-background {
+  background: #fdc8c8;
+}
+
+.black-text {
+  color: #000;
+}
+
+.black-background {
+  background: #000;
+}
+
+.white-text {
+  color: #FFF;
+}
+
+.white-background {
+  background: #FFF;
+}
+
+.animation {
+  background: url("../images/animation.gif") no-repeat;
+  width: 500x;
+  height: 500px;
+}
+
+.alfa-font {
+  font-family: 'Alfa Slab One', cursive;
+   font-family: 'Cedarville Cursive', cursive;
+  font-size: 50px; 
+  text-align:center;
+  color: #40E0D0;
+}
+
+.permanent-marker-font {
+  font-family: 'Permanent Marker', cursive;
+}
+
+.nova-font {
+  font-family: 'Nova Mono', cursive;
+}
+
+.mono-font {
+  font-family: 'Monoton', cursive;
+}
+
+.start-font {
+  font-family: 'Press Start 2P', cursive;
+}
+
+.bowlby-font {
+  font-family: 'Bowlby One SC', cursive;
+}
+
+.cursive-font {
+  font-family: 'Cedarville Cursive', cursive;
+  font-size: 58px; 
+  text-align:center;
+  color: #FFC0CB;
+}
